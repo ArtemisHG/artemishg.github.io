@@ -1324,6 +1324,8 @@ input:checked+.slider:before {
     width: 95%;
     height: 95%;
     transition-duration: 0.32s;
+    background-color: var(--main_color);
+    border-radius: 3px;
     /*  overflow: hidden; */
     /* background-color: rgba(255, 255, 255, 0); */
     /* background: linear-gradient(70deg, var(--button-color-2) 8%, white 8%, white 10%, var(--button-color) 10%); */
