@@ -1502,6 +1502,15 @@ input:checked+.slider:before {
     line-height: 3em;
 }
 
+.about-content .about-intro .intro-msg .intro-main p a {
+    text-decoration: underline;
+    transition-duration: 0.32s;
+}
+
+.about-content .about-intro .intro-msg .intro-main p a:hover {
+    color: var(--main_color);
+}
+
 .about-content .about-links {
     grid-row: 4;
     grid-column: 1 / 2;
