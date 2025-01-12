@@ -15,7 +15,7 @@ var randvar4 = '<div class="footer">'+
 '                <a href="https://linkedin.com/in/artemishg" target="_blank"><img src="images/linkedinIcon.png" alt="LinkedIn Profile Icon" class="social-icon social1"></a>'+
 '            </div>'+
 '            <div class="social-box social-box-2">'+
-'                <a href="mailto:artemis.hg@proton.me" target="_blank"><img src="images/emailIcon.png" alt="Email Icon" class="social-icon social2"></a>'+
+'                <a href="mailto:contact@arty-in.space" target="_blank"><img src="images/emailIcon.png" alt="Email Icon" class="social-icon social2"></a>'+
 '            </div>'+
 '        </div>'+
 '    </div>'+
