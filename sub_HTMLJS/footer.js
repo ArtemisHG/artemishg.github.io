@@ -7,7 +7,7 @@ var randvar4 = '<div class="footer">'+
 '            <a href="https://portfolio.arty-in.space/contact.html" class="footer-link">Contact</a>'+
 '        </div>'+
 '        <div class="footer-text">'+
-'            <p class="copyright">Developed by Artemis Hernandez Guzman &#8212 V 1.3.1</p>'+
+'            <p class="copyright">Developed by Artemis Hernandez Guzman &#8212 V 1.3.2</p>'+
 '            <p class="perfectionist"> I strive to make my work the best it can be, so if you find any bugs, have any suggestions, or just want to say hi, feel free to <a href="contact.html">contact me</a>!</p>'+
 '        </div>'+
 '        <div class="footer-socials">'+

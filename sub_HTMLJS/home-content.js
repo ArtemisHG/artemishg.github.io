@@ -31,7 +31,8 @@ var randvar7 = '<div class="home-content">'+
 '        </div>'+
 '    </div>'+
 '    <div class="home-welcome-msg">'+
-'        <h3>I\'m Artemis (she/they), a MechE student at Georgia Tech! Welcome to my portfolio website :D</h3><br>'+
+'        <h3>I\'m Artemis (she/they), a recent MechE graduate from Georgia Tech. Welcome to my portfolio website :D</h3><br>'+
+'        <h3>Currently looking for an entry-level Mechanical Design Engineer role, starting around March 2025.</h3><br>'+
 '        <div class="about-links">'+
 '            <div class="about-resume">'+
 '                <div class="link-box">'+

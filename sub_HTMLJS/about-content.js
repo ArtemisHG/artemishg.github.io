@@ -8,7 +8,7 @@ var randvar1 = '<div class="about-content">'+
 '                <h2>About Arty (she/they)</h2>'+
 '            </div>'+
 '            <div class="intro-main">'+
-'                <p> I recently graduated with my Bachelor\'s in Mechanical Engineering from the Georgia Institute of Technology! Go me!</p>' +
+'                <p> I recently graduated with my Bachelor\'s in Mechanical Engineering from the Georgia Institute of Technology... go me! 🎉🎉</p>' +
 '                <p> Currently seeking an entry-level, full-time Mechanical Design Engineer position starting anytime around March 2025 (sooner if in Los Angeles or if it\'s a remote position!).</p>'+
 '                <p> I believe that through perseverance, innovation, and cooperation, we can accomplish great things. If you need a compassionate, perseverant, and future-focused leader with a diverse technical background, you\'ve found the right person. </p>'+
 '                <p> My hobbies include rock climbing, <a href="https://open.spotify.com/artist/05DSvG22IjeqofE4vtMINS?si=wn6m6MbYTBKvxcQ8nX134g">making music</a>, playing board games, reading, and going on fun adventures with friends! </p>'+
