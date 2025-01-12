@@ -13,7 +13,7 @@ var randvar6 = '<div class="header">'+
 '        <div class="head-spacer"></div>'+
 '        <div class="rightHead">'+
 '            <div class="navbar-main">'+
-'                <img src="images/navbar-icon.png" alt="navbar icon" id="navbar-icon" class="navbar-icon" onclick="navbarIconOpen2()">'+
+'                <img src="https://portfolio.arty-in.space/images/navbar-icon.png" alt="navbar icon" id="navbar-icon" class="navbar-icon" onclick="navbarIconOpen2()">'+
 '                <div id="navbar-links" class="notclicked">'+
 '                    <a href="https://portfolio.arty-in.space/index.html" title="Home" class="navbar-link" id="navbar-link-home">Home</a>'+
 '                    <a href="https://portfolio.arty-in.space/portfolio.html" title="Portfolio" class="navbar-link" id="navbar-link-portfolio">Portfolio</a>'+
@@ -21,7 +21,7 @@ var randvar6 = '<div class="header">'+
 '                    <a href="https://portfolio.arty-in.space/contact.html" title="Contact" class="navbar-link" id="navbar-link-contact">Contact</a>'+
 '                    <!-- <div class="navbar-switch">'+
 '                        <div class="navbar-switch-item">'+
-'                            <img src="images/lightmodeIcon.png" alt="Light mode Icon" class="css-toggle-img" id="light">'+
+'                            <img src="https://portfolio.arty-in.space/images/lightmodeIcon.png" alt="Light mode Icon" class="css-toggle-img" id="light">'+
 '                        </div>'+
 '                        <div class="navbar-switch-item">'+
 '                            <label class="switch" class="css-toggle" href="#"'+
@@ -31,7 +31,7 @@ var randvar6 = '<div class="header">'+
 '                            </label>'+
 '                        </div>'+
 '                        <div class="navbar-switch-item">'+
-'                            <img src="images/nightmodeIcon.png" alt="Dark mode Icon" class="css-toggle-img" id="dark">'+
+'                            <img src="https://portfolio.arty-in.space/images/nightmodeIcon.png" alt="Dark mode Icon" class="css-toggle-img" id="dark">'+
 '                        </div>'+
 '                    </div> -->'+
 '                </div>'+
