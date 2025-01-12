@@ -1,10 +1,10 @@
 var randvar4 = '<div class="footer">'+
 '    <div class="foot-container">'+
 '        <div class="footer-links">'+
-'            <a href="index.html" class="footer-link">Home |</a>  '+
-'            <a href="portfolio.html" class="footer-link">Portfolio |</a> '+
-'            <a href="about.html" class="footer-link">About |</a> '+
-'            <a href="contact.html" class="footer-link">Contact</a>'+
+'            <a href="https://portfolio.arty-in.space/index.html" class="footer-link">Home |</a>  '+
+'            <a href="https://portfolio.arty-in.space/portfolio.html" class="footer-link">Portfolio |</a> '+
+'            <a href="https://portfolio.arty-in.space/about.html" class="footer-link">About |</a> '+
+'            <a href="https://portfolio.arty-in.space/contact.html" class="footer-link">Contact</a>'+
 '        </div>'+
 '        <div class="footer-text">'+
 '            <p class="copyright">Developed by Artemis Hernandez Guzman &#8212 V 1.3.1</p>'+
