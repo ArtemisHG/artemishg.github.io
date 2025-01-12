@@ -8,12 +8,10 @@ var randvar1 = '<div class="about-content">'+
 '                <h2>About Arty (she/they)</h2>'+
 '            </div>'+
 '            <div class="intro-main">'+
-'                <p> I am a fifth year Mechanical Engineering student at the Georgia Institute of Technology, currently' +
-'                    interning at NASA JPL for the summer in the Entry, Descent, & Landing and Formulation group (352B).</p>' +
-'                <p> Currently seeking a graduate program in Mechanical/Space Engineering starting in Fall 2025. Open to Masters or Ph.D.</p>'+
-'                <p> I believe that through perseverance, innovation, and cooperation, we can'+
-'                    accomplish great things. If you need a compassionate, perseverant, and future-focused leader with a diverse technical background, you\'ve found the right person. </p>'+
-'                <p> My hobbies include rock climbing, <a href="https://open.spotify.com/artist/05DSvG22IjeqofE4vtMINS?si=wn6m6MbYTBKvxcQ8nX134g">making music</a>, playing board games, and going on fun adventures with friends! </p>'+
+'                <p> I recently graduated with my Bachelor\'s in Mechanical Engineering from the Georgia Institute of Technology... go me! 🎉🎉</p>' +
+'                <p> Currently seeking an entry-level, full-time Mechanical Design Engineer position starting anytime around March 2025 (sooner if in Los Angeles or if it\'s a remote position!).</p>'+
+'                <p> I believe that through perseverance, innovation, and cooperation, we can accomplish great things. If you need a compassionate, perseverant, and future-focused leader with a diverse technical background, you\'ve found the right person. </p>'+
+'                <p> My hobbies include rock climbing, <a href="https://open.spotify.com/artist/05DSvG22IjeqofE4vtMINS?si=wn6m6MbYTBKvxcQ8nX134g">making music</a>, playing board games, reading, and going on fun adventures with friends! </p>'+
 '            </div>'+
 '        </div>'+
 '        <div class="about-links">'+

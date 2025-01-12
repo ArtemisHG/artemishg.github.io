@@ -1,13 +1,13 @@
 var randvar4 = '<div class="footer">'+
 '    <div class="foot-container">'+
 '        <div class="footer-links">'+
-'            <a href="index.html" class="footer-link">Home |</a>  '+
-'            <a href="portfolio.html" class="footer-link">Portfolio |</a> '+
-'            <a href="about.html" class="footer-link">About |</a> '+
-'            <a href="contact.html" class="footer-link">Contact</a>'+
+'            <a href="https://portfolio.arty-in.space/index.html" class="footer-link">Home |</a>  '+
+'            <a href="https://portfolio.arty-in.space/portfolio.html" class="footer-link">Portfolio |</a> '+
+'            <a href="https://portfolio.arty-in.space/about.html" class="footer-link">About |</a> '+
+'            <a href="https://portfolio.arty-in.space/contact.html" class="footer-link">Contact</a>'+
 '        </div>'+
 '        <div class="footer-text">'+
-'            <p class="copyright">Developed by Artemis Hernandez Guzman &#8212 V 1.3.1</p>'+
+'            <p class="copyright">Developed by Artemis Hernandez Guzman &#8212 V 1.3.2</p>'+
 '            <p class="perfectionist"> I strive to make my work the best it can be, so if you find any bugs, have any suggestions, or just want to say hi, feel free to <a href="contact.html">contact me</a>!</p>'+
 '        </div>'+
 '        <div class="footer-socials">'+
@@ -15,7 +15,7 @@ var randvar4 = '<div class="footer">'+
 '                <a href="https://linkedin.com/in/artemishg" target="_blank"><img src="images/linkedinIcon.png" alt="LinkedIn Profile Icon" class="social-icon social1"></a>'+
 '            </div>'+
 '            <div class="social-box social-box-2">'+
-'                <a href="mailto:artemis.hg@proton.me" target="_blank"><img src="images/emailIcon.png" alt="Email Icon" class="social-icon social2"></a>'+
+'                <a href="mailto:contact@arty-in.space" target="_blank"><img src="images/emailIcon.png" alt="Email Icon" class="social-icon social2"></a>'+
 '            </div>'+
 '        </div>'+
 '    </div>'+
