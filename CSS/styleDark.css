@@ -991,15 +991,6 @@ input:checked+.slider:before {
 
 }
 
-.project-box .project-sub-box .project-img .img-cover {
-    height: 100%;
-    width: 100%;
-    margin: auto;
-    justify-self: center;
-    z-index: 2;
-    background-image: linear-gradient(to right, var(--button-color-3) 5%, rgba(255, 255, 255, 0), var(--button-color-3) 5%);
-}
-
 .project-box .project-sub-box .project-title {
     grid-row: 2;
     grid-column: 1;
