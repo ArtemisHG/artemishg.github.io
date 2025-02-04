@@ -5,72 +5,95 @@
 <head>
     <meta charset="UTF-8">
     <style> html{visibility: hidden; opacity: 0;} </style>
-    <link rel="stylesheet" type="text/css" href="CSS/styleDark.css">
+    <link rel="stylesheet" type="text/css" href="CSS/styleLight.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather|Open Sans|Chivo|Montserrat">
-    <link rel="icon" href="images/pageIcon.png">
+    <link rel="icon" href="images/page-icon.png">
     <meta name="keywords" content="Portfolio Engineering Internship Hire Job Mechanical Engineer pleasegivemeajoblol">
     <meta name="description" content="Artemis Hernandez Guzman's Project Portfolio Website">
     <meta name="author" content="Artemis Hernandez Guzman">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="My Portfolio Website">
+    <meta property="og:title" content="Artemis HG's Portfolio Website">
     <meta property="og:description" content="Click here to visit my portfolio website!">
     <meta property="og:site_name" content="Artemis's Portfolio Website">
-    <meta property="og:image" content="https://portfolio.arty-in.space/images/pageIcon.png">
+    <meta property="og:image" content="https://portfolio.arty-in.space/images/page-icon.png">
     <meta property="og:url" content="https://portfolio.arty-in.space/index.html">
     <title>Artemis Hernandez Guzman</title>
-
-    <script src="sub_HTMLJS/setCSS.js"></script>
-    <script src="sub_HTMLJS/changeCSS.js"></script>
-    <script src="sub_HTMLJS/navbarIconOpen2.js"></script>
-    <script src="sub_HTMLJS/pageDetect.js"></script>
-    <script src="sub_HTMLJS/navbarWindow.js"></script>
-    <script src="sub_HTMLJS/navbarWindow2.js"></script>
-
+    
+    <script src="CSS/setCSS.js"></script>
+    <script src="CSS/changeCSS.js"></script>
+    <script src="scripts/navbarIconOpen2.js"></script>
+    <script src="scripts/pageDetect.js"></script>
+    <script src="scripts/navbarWindow.js"></script>
+    <script src="scripts/navbarWindow2.js"></script>
+    
     <noscript style="visibility: visible;">
-        Please enable JavaScript! Pages will not build correctly with JavaScript off
+        Please enable JavaScript! Pages will not build correctly with JavaScript disabled.
     </noscript>
 </head>
 
-<body onload="setCSS();pageDetect()">
+<body onload="setCSS();pageDetect('home')">
     <div class="grid-container">
-        <script src="sub_HTMLJS/header.js"></script>
-        <script src="sub_HTMLJS/home-content.js"></script>
-        <script src="sub_HTMLJS/footer.js"></script>
+        <script src="scripts/header.js"></script>
+        
+        <div class="home-content">
+            <div class="home-welcome-container">
+                <div class="home-welcome-gradient"></div>
+                <div class="home-welcome-msg-box">
+                    <div class="home-welcome-welcome">
+                        <h1>Howdy! 🤠</h1>
+                    </div>
+                </div>
+                <div class="home-arrow-container">
+                    <a href="#msg_blocklinks">
+                        <img src="images/home-welcome-arrow.png" title="down arrow" class="home-welcome-arrow">
+                    </a>
+                </div>
+            </div>
+            <div id="msg_blocklinks"></div>
+            <div class="home-blocklinks-container">
+                <div class="home-blocklink" id="blocklink1">
+                    <a href="about.html">
+                        <p> About </p>
+                    </a>
+                </div>
+                <div class="home-blocklink" id="blocklink2">
+                    <a href="portfolio.html">
+                        <p> Portfolio </p>
+                    </a>
+                </div>
+                <div class="home-blocklink" id="blocklink3">
+                    <a href="contact.html">
+                        <p> Contact </p>
+                    </a>
+                </div>
+            </div>
+            <div class="home-welcome-msg">
+                <h3> Welcome to my portfolio website :D </h3><br>
+                <h3> I'm currently looking for entry-level Mechanical Engineer roles, starting full-time around March 2025. </h3><br>
+                <div class="about-links">
+                    <div class="about-resume">
+                        <div class="link-box">
+                            <a href="resume/resume_artyhg.pdf" target="_blank" download title="Click to download a copy of my resume">
+                                <h4 style="line-height:36pt; font-size:14pt;"> Resume </h4>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="scripts/footer.js"></script>
     </div>
 </body>
 
 </html>
 
 <!-- 
-Hi! So it seems you decided to inspect the HTML. You curious human! Enjoy an easter egg.
+    Hi! So it seems you decided to inspect the HTML. Enjoy an easter egg!
+    
+    <(:(:(:(:(:(:(:(:(:(:(:(:(:('u') 
+    (it's a caterpillar! :D)
 
-I hope you enjoy this website as much as I did making it! :)
-
-
-  ` : | | | |:  ||  :     `  :  |  |+|: | : : :|   .        `              .
-      ` : | :|  ||  |:  :    `  |  | :| : | : |:   |  .                    :
-         .' ':  ||  |:  |  '       ` || | : | |: : |   .  `           .   :.
-                `'  ||  |  ' |   *    ` : | | :| |*|  :   :               :|
-        *    *       `  |  : :  |  .      ` ' :| | :| . : :         *   :.||
-             .`            | |  |  : .:|       ` | || | : |: |          | ||
-      '          .         + `  |  :  .: .         '| | : :| :    .   |:| ||
-         .                 .    ` *|  || :       `    | | :| | :      |:| |
- .                .          .        || |.: *          | || : :     :|||
-        .            .   . *    .   .  ` |||.  +        + '| |||  .  ||`
-     .             *              .     +:`|!             . ||||  :.||`
- +                      .                ..!|*          . | :`||+ |||`
-     .                         +      : |||`        .| :| | | |.| ||`     .
-       *     +   '               +  :|| |`     :.+. || || | |:`|| `
-                            .      .||` .    ..|| | |: '` `| | |`  +
-  .       +++                      ||        !|!: `       :| |
-              +         .      .    | .      `|||.:      .||    .      .    `
-          '                           `|.   .  `:|||   + ||'     `
-  __    +      *                         `'       `'|.    `:
-"'  `---"""----....____,..^---`^``----.,.___          `.    `.  .    ____,.,-
-    ___,--'""`---"'   ^  ^ ^        ^       """'---,..___ __,..---""'
---"'      &nnbsp;                    ^                         ``--..,__
-D. Rice
---
-Thank you D. Rice :) -->
+    I hope you enjoy this website as much as I did making it! :) 
+-->

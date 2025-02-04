@@ -5,32 +5,43 @@
 <head>
     <meta charset="UTF-8">
     <style> html{visibility: hidden; opacity: 0;} </style>
-    <link rel="stylesheet" type="text/css" href="CSS/styleDark.css">
+    <link rel="stylesheet" type="text/css" href="CSS/styleLight.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather|Open Sans|Chivo|Montserrat">
-    <link rel="icon" href="images/pageIcon.png">
+    <link rel="icon" href="images/page-icon.png">
     <meta name="keywords" content="Portfolio Engineering Internship Hire Job Mechanical Engineer pleasegivemeajoblol">
     <meta name="description" content="Artemis Hernandez Guzman's Project Portfolio Website">
     <meta name="author" content="Artemis Hernandez Guzman">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Artemis Hernandez Guzman</title>
 
-    <script src="sub_HTMLJS/setCSS.js"></script>
-    <script src="sub_HTMLJS/changeCSS.js"></script>
-    <script src="sub_HTMLJS/navbarIconOpen2.js"></script>
-    <script src="sub_HTMLJS/pageDetect.js"></script>
-    <script src="sub_HTMLJS/navbarWindow.js"></script>
-    <script src="sub_HTMLJS/navbarWindow2.js"></script>
+    <script src="CSS/setCSS.js"></script>
+    <script src="CSS/changeCSS.js"></script>
+    <script src="scripts/navbarIconOpen2.js"></script>
+    <script src="scripts/pageDetect.js"></script>
+    <script src="scripts/navbarWindow.js"></script>
+    <script src="scripts/navbarWindow2.js"></script>
 
     <noscript style="visibility: visible;">
-        Please enable JavaScript! Pages will not build correctly with JavaScript off
+        Please enable JavaScript! Pages will not build correctly with JavaScript disabled.
     </noscript>
 </head>
 
-<body onload="setCSS();pageDetect()">
+<body onload="setCSS();pageDetect('contact')">
     <div class="grid-container">
-        <script src="sub_HTMLJS/header.js"></script>
-        <script src="sub_HTMLJS/contact-content.js"></script>
-        <script src="sub_HTMLJS/footer.js"></script>
+        <script src="scripts/header.js"></script>
+
+        <div class="contact-content">
+               <div class="contact-welcome-msg">
+                   <h2>Interested in reaching out?</h2><p></p>
+                   <p>The best way to reach me is through email at <a href="mailto:contact@arty-in.space" target="_blank">contact@arty-in.space</a>!</p>
+                   <p>You can also use the form below, but I don't check it as often.</p>
+               </div>
+               <div class="contact-form-container">
+                   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeGU3-qy4msHKHQ4i_vpON_57ohxNkmfLSSp7JuxB3aLSkGnA/viewform?embedded=true" class="contact-form" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+               </div>
+            </div>
+
+        <script src="scripts/footer.js"></script>
     </div>
 </body>
 
